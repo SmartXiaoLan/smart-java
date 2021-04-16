@@ -14,7 +14,7 @@
         <mysql.version>5.1.32</mysql.version>
         <mybatis.version>3.2.8</mybatis.version>
         <mybatis.spring.version>1.2.2</mybatis.spring.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <slf4j.version>1.6.4</slf4j.version>
         <tomcat.version>2.2</tomcat.version>
         <jackson.version>2.10.0.pr1</jackson.version>
